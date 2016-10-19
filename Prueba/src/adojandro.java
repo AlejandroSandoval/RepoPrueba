@@ -6,7 +6,7 @@
 
 /**
  *
- * @author Laboratorio
+ * @author AdonayAlejandro
  */
 public class adojandro {
     
